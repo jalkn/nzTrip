@@ -9,7 +9,7 @@ The photos are organized by region/location and then further divided by date whe
 * **North Island:**
     * **Auckland:** 
     * **Bay of Islands:** 
-    * **Rotorua:** 
+    * **Rotorua:** https://jalkntoth.github.io/nzTrip/#redwood
 
 * **South Island:**
     * **Fiordland National Park:** 
@@ -35,7 +35,7 @@ This is a personal photo album, so I won't be accepting contributions.  However,
 
 ## Licensing
 
-These photos are copyrighted by ©Alejalkndro Monsalve.  Please respect my ownership and contact me for permission before any commercial use.  Non-commercial sharing with attribution is appreciated.
+These photos are copyrighted by ©Alejalkndro Monsalve.  To get high-resolutions contact me for permission before any commercial use.  Non-commercial sharing with attribution is appreciated.
 
 ## Contact
 
