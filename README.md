@@ -4,7 +4,7 @@ This repository contains photos from my trip to New Zealand, spanning 2020 to 20
 
 ## Organization
 
-The photos are organized by region/location and then further divided by date where appropriate.
+The photos are in low-resolution and organized by region/location
 
 * **North Island:**
     * **Auckland:** 
