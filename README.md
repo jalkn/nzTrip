@@ -4,7 +4,7 @@ This repository contains photos from my trip to New Zealand, spanning 2020 to 20
 
 ## Organization
 
-The photos are in low-resolution and organized by region/location
+The photos are in low-resolution and organized by region/location. To get high-resolutions contact me
 
 * **North Island:**
     * **Auckland:** 
@@ -35,7 +35,7 @@ This is a personal photo album, so I won't be accepting contributions.  However,
 
 ## Licensing
 
-These photos are copyrighted by ©Alejalkndro Monsalve.  To get high-resolutions contact me for permission before any commercial use.  Non-commercial sharing with attribution is appreciated.
+These photos are copyrighted by ©Alejalkndro Monsalve.  Contact me for permission before any commercial use.  Non-commercial sharing with attribution is appreciated.
 
 ## Contact
 
