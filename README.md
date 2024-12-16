@@ -10,15 +10,12 @@ The photos are organized by region/location and then further divided by date whe
     * **Auckland:** 
     * **Bay of Islands:** 
     * **Rotorua:** 
-    * **[Other North Island Locations]:**  
 
 * **South Island:**
     * **Fiordland National Park:** 
     * **Queenstown:** 
     * **Wanaka:** 
     * **Aoraki/Mount Cook National Park:** 
-    * **[Other South Island Locations]:** 
-
 
 ## Usage
 
