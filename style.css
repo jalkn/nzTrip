@@ -59,9 +59,9 @@ img{
 }
 
 h6{
-    font-size: 20px;
+    font-size: 8px;
     position: absolute;
-    bottom: 350px;
+    bottom: 150px;
     color: white;
     transform: translateX(-50%); 
 }
