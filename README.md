@@ -13,8 +13,16 @@ The photos are organized by region/location and then further divided by date whe
 
 * **South Island:**
     * **Fiordland National Park:** 
+    https://jalkntoth.github.io/nzTrip/#fiorland
+    https://jalkntoth.github.io/nzTrip/#milford
+    https://jalkntoth.github.io/nzTrip/#harris
+
     * **Queenstown:** 
+    https://jalkntoth.github.io/nzTrip/#wakatipu
+    https://jalkntoth.github.io/nzTrip/#bobs
+    https://jalkntoth.github.io/nzTrip/#lemon
     * **Wanaka:** 
+    https://jalkntoth.github.io/nzTrip/#pisa
     * **Aoraki/Mount Cook National Park:** 
 
 ## Usage
