@@ -50,11 +50,9 @@ img{
     overflow: hidden;
 }
 
-
-
 .logo-container {
-    width: 150px;
-    height: 150px * (5/3);
+    width: 100px;
+    height: 100px * (5/3);
     position: relative;
 }
 
