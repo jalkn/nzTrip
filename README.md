@@ -1,6 +1,6 @@
 # New Zealand Trip
 
-This repository contains photos from my trip to New Zealand, spanning 2020 to 2023.  I've tried to organize them as best as possible, so feel free to browse through and relive the journey with me!
+This repository contains photos from my trip to New Zealand, spanning 2020 to 2023.
 
 ## Organization
 
