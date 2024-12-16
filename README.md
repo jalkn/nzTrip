@@ -9,20 +9,21 @@ The photos are in low-resolution and organized by region/location. To get high-r
 * **North Island:**
     * **Auckland:** 
     * **Bay of Islands:** 
-    * **Rotorua:** https://jalkntoth.github.io/nzTrip/#redwood
+    * **Rotorua:** 
+    - https://jalkntoth.github.io/nzTrip/#redwood
 
 * **South Island:**
     * **Fiordland National Park:** 
-    https://jalkntoth.github.io/nzTrip/#fiorland
-    https://jalkntoth.github.io/nzTrip/#milford
-    https://jalkntoth.github.io/nzTrip/#harris
+    - https://jalkntoth.github.io/nzTrip/#fiorland
+    - https://jalkntoth.github.io/nzTrip/#milford
+    - https://jalkntoth.github.io/nzTrip/#harris
 
     * **Queenstown:** 
-    https://jalkntoth.github.io/nzTrip/#wakatipu
-    https://jalkntoth.github.io/nzTrip/#bobs
-    https://jalkntoth.github.io/nzTrip/#lemon
+    - https://jalkntoth.github.io/nzTrip/#wakatipu
+    - https://jalkntoth.github.io/nzTrip/#bobs
+    - https://jalkntoth.github.io/nzTrip/#lemon
     * **Wanaka:** 
-    https://jalkntoth.github.io/nzTrip/#pisa
+    - https://jalkntoth.github.io/nzTrip/#pisa
     * **Aoraki/Mount Cook National Park:** 
 
 ## Usage
